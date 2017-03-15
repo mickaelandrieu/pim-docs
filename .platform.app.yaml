@@ -2,7 +2,7 @@
 # in the same project.
 
 # The name of this app. Must be unique within a project.
-name: akeneodocs
+name: Akeneo docs
 
 # The toolstack used to build the application.
 type: "python:2.7"
