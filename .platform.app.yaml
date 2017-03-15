@@ -13,7 +13,7 @@ build:
 # The configuration of app when it is exposed to the web.
 web:
     # The public directory of the app, relative to its root.
-    document_root: "/_build/"
+    document_root: "/build/"
     index_files:
       - index.html
     whitelist:
